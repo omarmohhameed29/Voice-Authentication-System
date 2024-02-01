@@ -33,6 +33,9 @@ Voice Authentication System is an innovative project that utilizes advanced voic
   - Implements encryption and secure communication protocols to protect sensitive voice data.
   - Regularly updates security features to address emerging threats.
 
+## Project UI
+![Project UI](Assets/project_ui.jpeg)
+
 ## Features
 
 - **Person Detection**
